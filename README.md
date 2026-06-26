@@ -1,5 +1,10 @@
 # content-repurpose-engine for Claude Code
 
+[![License: MIT](https://img.shields.io/github/license/Zavelinski/content-repurpose-engine)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Zavelinski/content-repurpose-engine?style=flat)](https://github.com/Zavelinski/content-repurpose-engine/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Zavelinski/content-repurpose-engine)](https://github.com/Zavelinski/content-repurpose-engine/commits)
+[![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-8A2BE2)](https://claude.com/claude-code)
+
 A [Claude Code](https://claude.com/claude-code) skill that turns **one source asset into many platform-native posts**. Give it a blog post, transcript, video, or long note and it extracts the core idea once, then re-packages it per platform — LinkedIn, X thread, Instagram, short-form video script, newsletter, YouTube, Reddit — each matched to that platform's format, length, and voice. Faithful to the source: it adapts wording, it does not invent facts.
 
 ## What makes it different
