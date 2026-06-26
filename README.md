@@ -70,3 +70,9 @@ Pairs well with a scheduler (e.g. a [scheduled-sop-runner](https://github.com/Za
 ## License
 
 MIT. See [LICENSE](LICENSE). Original work.
+
+---
+
+## Part of claude-code-skills
+
+This skill ships in the [claude-code-skills](https://zavelinski.github.io/claude-code-skills/) marketplace. Browse its landing page: [content-repurpose-engine](https://zavelinski.github.io/claude-code-skills/content-repurpose-engine.html). See also: [weekly-ai-digest](https://github.com/Zavelinski/claude-code-weekly-ai-digest), [geo-aeo-audit](https://github.com/Zavelinski/claude-code-geo-aeo-audit).
